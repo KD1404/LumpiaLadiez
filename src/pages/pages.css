@@ -1,0 +1,31 @@
+.home > h1{
+    color: aliceblue;
+    margin-top: 200px;
+    font-size: 100px;
+}
+
+.pages > h1{
+    color: aliceblue;
+    /* margin-top: 200px;
+    font-size: 100px; */
+}
+
+.pages > p{
+    color: aliceblue;
+    /* margin-top: 200px;
+    font-size: 100px; */
+}
+
+.button{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(211, 178, 176);
+    font-size: 4rem;
+    font-family: 'Garet', sans-serif;
+}
+
+.pages{
+    color: aliceblue;
+    font-family: 'Garet', sans-serif;
+
+}

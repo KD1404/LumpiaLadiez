@@ -1,0 +1,16 @@
+body{
+  
+   background-color: blanchedalmond; 
+  /* background-color:  #fd2222; */
+    background-image: url(assets/background.png);   
+    position: sticky;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 10;
+  height: 100%;
+  width: 100%;
+}
+                                                                    font-family: 'Garet', sans-serif;
+                                                
