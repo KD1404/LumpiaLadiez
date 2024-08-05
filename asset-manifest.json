@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/LumpiaLadiez/static/css/main.7ae021a4.css",
-    "main.js": "/LumpiaLadiez/static/js/main.6d33d9b5.js",
+    "main.css": "/LumpiaLadiez/static/css/main.f858f6e5.css",
+    "main.js": "/LumpiaLadiez/static/js/main.605e71db.js",
     "static/js/453.c5932eb1.chunk.js": "/LumpiaLadiez/static/js/453.c5932eb1.chunk.js",
     "static/media/background.png": "/LumpiaLadiez/static/media/background.863dafebd41d9f1d56e8.png",
     "static/media/ads.jpg": "/LumpiaLadiez/static/media/ads.a345863999f32103d89a.jpg",
     "static/media/sigsig.jpg": "/LumpiaLadiez/static/media/sigsig.aba641ce54d259204f6c.jpg",
     "static/media/153946.webp": "/LumpiaLadiez/static/media/153946.607d5523fec8c6c34cf9.webp",
     "static/media/ig.png": "/LumpiaLadiez/static/media/ig.8666a7270e5731c9e2fa.png",
-    "static/media/lumpia2.PNG": "/LumpiaLadiez/static/media/lumpia2.91828098f83aa0e9ba04.PNG",
+    "static/media/lumpia2.PNG": "/LumpiaLadiez/static/media/lumpia2.44fe13ad250d90719201.PNG",
     "index.html": "/LumpiaLadiez/index.html",
-    "main.7ae021a4.css.map": "/LumpiaLadiez/static/css/main.7ae021a4.css.map",
-    "main.6d33d9b5.js.map": "/LumpiaLadiez/static/js/main.6d33d9b5.js.map",
+    "main.f858f6e5.css.map": "/LumpiaLadiez/static/css/main.f858f6e5.css.map",
+    "main.605e71db.js.map": "/LumpiaLadiez/static/js/main.605e71db.js.map",
     "453.c5932eb1.chunk.js.map": "/LumpiaLadiez/static/js/453.c5932eb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae021a4.css",
-    "static/js/main.6d33d9b5.js"
+    "static/css/main.f858f6e5.css",
+    "static/js/main.605e71db.js"
   ]
 }
