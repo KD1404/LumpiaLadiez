@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LumpiaLadiez/static/css/main.f858f6e5.css",
-    "main.js": "/LumpiaLadiez/static/js/main.c0dc74d2.js",
+    "main.js": "/LumpiaLadiez/static/js/main.95ff43ab.js",
     "static/js/453.c5932eb1.chunk.js": "/LumpiaLadiez/static/js/453.c5932eb1.chunk.js",
     "static/media/background.png": "/LumpiaLadiez/static/media/background.863dafebd41d9f1d56e8.png",
     "static/media/ads.jpg": "/LumpiaLadiez/static/media/ads.a345863999f32103d89a.jpg",
@@ -11,11 +11,11 @@
     "static/media/lumpia2.PNG": "/LumpiaLadiez/static/media/lumpia2.44fe13ad250d90719201.PNG",
     "index.html": "/LumpiaLadiez/index.html",
     "main.f858f6e5.css.map": "/LumpiaLadiez/static/css/main.f858f6e5.css.map",
-    "main.c0dc74d2.js.map": "/LumpiaLadiez/static/js/main.c0dc74d2.js.map",
+    "main.95ff43ab.js.map": "/LumpiaLadiez/static/js/main.95ff43ab.js.map",
     "453.c5932eb1.chunk.js.map": "/LumpiaLadiez/static/js/453.c5932eb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f858f6e5.css",
-    "static/js/main.c0dc74d2.js"
+    "static/js/main.95ff43ab.js"
   ]
 }
